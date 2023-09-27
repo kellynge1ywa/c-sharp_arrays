@@ -1,0 +1,14 @@
+D:\learning\C#\visual studio\C-sharp_arrays\bin\Debug\net6.0\C-sharp_arrays.exe
+D:\learning\C#\visual studio\C-sharp_arrays\bin\Debug\net6.0\C-sharp_arrays.deps.json
+D:\learning\C#\visual studio\C-sharp_arrays\bin\Debug\net6.0\C-sharp_arrays.runtimeconfig.json
+D:\learning\C#\visual studio\C-sharp_arrays\bin\Debug\net6.0\C-sharp_arrays.dll
+D:\learning\C#\visual studio\C-sharp_arrays\bin\Debug\net6.0\C-sharp_arrays.pdb
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.AssemblyInfoInputs.cache
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.AssemblyInfo.cs
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.csproj.CoreCompileInputs.cache
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.dll
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\refint\C-sharp_arrays.dll
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.pdb
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\C-sharp_arrays.genruntimeconfig.cache
+D:\learning\C#\visual studio\C-sharp_arrays\obj\Debug\net6.0\ref\C-sharp_arrays.dll
